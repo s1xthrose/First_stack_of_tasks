@@ -1,0 +1,2 @@
+let planetNameEarth;
+let citeGuest;
